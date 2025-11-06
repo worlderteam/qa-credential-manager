@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/QA_CredentialsManager/',  // 👈 add this line
+  base: '/qa-credential-manager/',
 })
